@@ -1425,10 +1425,10 @@ body.body-about {
   -ms-flex-align: center;
   padding: 48px;
   min-height: 60vh;
-  background-image: -webkit-linear-gradient(bottom, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 0) 50%), url('https://img.freepik.com/free-vector/business-team-brainstorm-idea-lightbulb-from-jigsaw-working-team-collaboration-enterprise-cooperation-colleagues-mutual-assistance-concept-pinkish-coral-bluevector-isolated-illustration_335657-1651.jpg?w=1380&t=st=1703870671~exp=1703871271~hmac=f0f49b0222fe3072ad978c94e0bc6ca88bdd235412f23b72dc7d364fa9a8e3ee');
-  background-image:    -moz-linear-gradient(bottom, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 0) 50%), url('https://img.freepik.com/free-vector/business-team-brainstorm-idea-lightbulb-from-jigsaw-working-team-collaboration-enterprise-cooperation-colleagues-mutual-assistance-concept-pinkish-coral-bluevector-isolated-illustration_335657-1651.jpg?w=1380&t=st=1703870671~exp=1703871271~hmac=f0f49b0222fe3072ad978c94e0bc6ca88bdd235412f23b72dc7d364fa9a8e3ee');
-  background-image:      -o-linear-gradient(bottom, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 0) 50%), url('https://img.freepik.com/free-vector/business-team-brainstorm-idea-lightbulb-from-jigsaw-working-team-collaboration-enterprise-cooperation-colleagues-mutual-assistance-concept-pinkish-coral-bluevector-isolated-illustration_335657-1651.jpg?w=1380&t=st=1703870671~exp=1703871271~hmac=f0f49b0222fe3072ad978c94e0bc6ca88bdd235412f23b72dc7d364fa9a8e3ee');
-  background-image:         linear-gradient(0deg, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 0) 50%), url('https://img.freepik.com/free-vector/business-team-brainstorm-idea-lightbulb-from-jigsaw-working-team-collaboration-enterprise-cooperation-colleagues-mutual-assistance-concept-pinkish-coral-bluevector-isolated-illustration_335657-1651.jpg?w=1380&t=st=1703870671~exp=1703871271~hmac=f0f49b0222fe3072ad978c94e0bc6ca88bdd235412f23b72dc7d364fa9a8e3ee');
+  background-image: -webkit-linear-gradient(bottom, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 0) 50%), url('https://www.changefactory.com.au/wp-content/uploads/2010/10/bigstock-Team-of-business-people-collab-38632897.jpg');
+  background-image:    -moz-linear-gradient(bottom, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 0) 50%), url('https://www.changefactory.com.au/wp-content/uploads/2010/10/bigstock-Team-of-business-people-collab-38632897.jpg');
+  background-image:      -o-linear-gradient(bottom, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 0) 50%), url('https://www.changefactory.com.au/wp-content/uploads/2010/10/bigstock-Team-of-business-people-collab-38632897.jpg');
+  background-image:         linear-gradient(0deg, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 0) 50%), url('https://www.changefactory.com.au/wp-content/uploads/2010/10/bigstock-Team-of-business-people-collab-38632897.jpg');
   background-attachment: scroll, fixed;
   background-position: left top, center center;
   background-clip: border-box, border-box;
