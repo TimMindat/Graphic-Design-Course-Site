@@ -1058,10 +1058,10 @@ body.body-about {
   min-height: 60vh;
   max-width: none;
   background-color: #fff;
-  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, .35) 0%, rgba(0, 0, 0, .35) 100%), url('https://img.freepik.com/free-photo/glowing-filament-ignites-ideas-innovative-solutions-generated-by-ai_188544-9614.jpg?w=1380&t=st=1703870057~exp=1703870657~hmac=0d2b1284c466fcdc3addc620a81bb65dda0156cb2d30782564b525c8c6ff6516');
-  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, .35) 0%, rgba(0, 0, 0, .35) 100%), url('https://img.freepik.com/free-photo/glowing-filament-ignites-ideas-innovative-solutions-generated-by-ai_188544-9614.jpg?w=1380&t=st=1703870057~exp=1703870657~hmac=0d2b1284c466fcdc3addc620a81bb65dda0156cb2d30782564b525c8c6ff6516');
-  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, .35) 0%, rgba(0, 0, 0, .35) 100%), url('https://img.freepik.com/free-photo/glowing-filament-ignites-ideas-innovative-solutions-generated-by-ai_188544-9614.jpg?w=1380&t=st=1703870057~exp=1703870657~hmac=0d2b1284c466fcdc3addc620a81bb65dda0156cb2d30782564b525c8c6ff6516');
-  background-image:         linear-gradient(180deg, rgba(0, 0, 0, .35) 0%, rgba(0, 0, 0, .35) 100%), url('https://img.freepik.com/free-photo/glowing-filament-ignites-ideas-innovative-solutions-generated-by-ai_188544-9614.jpg?w=1380&t=st=1703870057~exp=1703870657~hmac=0d2b1284c466fcdc3addc620a81bb65dda0156cb2d30782564b525c8c6ff6516');
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, .35) 0%, rgba(0, 0, 0, .35) 100%), url('https://news.wayne.edu/storage/files/ienewsroom-605a333c4b604.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, .35) 0%, rgba(0, 0, 0, .35) 100%), url('https://news.wayne.edu/storage/files/ienewsroom-605a333c4b604.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, .35) 0%, rgba(0, 0, 0, .35) 100%), url('https://news.wayne.edu/storage/files/ienewsroom-605a333c4b604.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, .35) 0%, rgba(0, 0, 0, .35) 100%), url('https://news.wayne.edu/storage/files/ienewsroom-605a333c4b604.jpg');
   background-attachment: scroll, scroll;
   background-position: left top, center center;
   background-clip: border-box, border-box;
